@@ -1,0 +1,27 @@
+{
+    "users": [
+        {
+            "name": "pogi",
+            "email": "pogiemman521@gmail.com",
+            "password": "$2y$10$JeMqXHFZK6Mx3ueIN3L5eudvvFPmRHjV4A3e8kslMf2GyUGvGwH52",
+            "role": "admin",
+            "status": "active",
+            "notes": "Initial administrator account",
+            "id": "c59939d58ad69391",
+            "created_at": "2026-05-22T16:40:36+02:00"
+        },
+        {
+            "name": "emman",
+            "email": "emman@gmail.com",
+            "role": "user",
+            "status": "active",
+            "notes": "",
+            "password": "$2y$10$B\/fWUbegBcrgRlF3eElMjOilqwmJflZ48PLjGdabwJi9nVZE9LHEa",
+            "id": "ee0b209bbb9e588f",
+            "created_at": "2026-05-22T16:46:09+02:00"
+        }
+    ],
+    "sessions": [],
+    "agendas": [],
+    "legislatives": []
+}
